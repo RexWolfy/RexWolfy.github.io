@@ -1,6 +1,6 @@
-# rdergs secret porn stash
-
-hello guys! welcome to my sit
+# rdergs cool website
+## yo whaddup 👋
+hello world! Welcome to my shite
 
 [sophie](./sophie)
 
