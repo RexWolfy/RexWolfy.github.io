@@ -5,10 +5,10 @@ Welcome to my corner of the internet — a space where my thoughts, projects, an
 ---
 ## 👤 About Me
 
-he/him
-I'm rderg — a curious student and digital explorer.
-I'm from Germany 🇩🇪
-furry 🐯🐲
+he/him<br>
+I'm rderg — a curious student and digital explorer.<br>
+I'm from Germany 🇩🇪<br>
+furry 🐯🐲<br>
 
 ## 🧠 Interests
 
