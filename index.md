@@ -24,7 +24,7 @@ furry 🐯🐲
 
 ## 🌐 Find Me Around
 
-- ENS: [`rderg.eth`](https://etherscan.io/enslookup-search?search=rderg.eth)  
+- ENS: [rderg.eth](https://etherscan.io/enslookup-search?search=rderg.eth)  
 - This website: [rderg.com](https://rderg.com)   
 - Working on some more stuff… you’ll see it when it’s ready.
 
